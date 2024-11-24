@@ -26,6 +26,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/36.2.2254/119.1
 #-failed-#
 def failed():
 	os.sys.exit()
+	print "\033[1;91m[!] Exit"
 
 #-Animation-#
 def jalan(z):
@@ -87,6 +88,7 @@ vuln = "\033[32mVuln"
 ##### choices Login #####
 def tool_main_function():
 	os.system('clear')
+	print logo
 	print "\033[1;97m║--\033[1;91m> \033[1;92m1.\033[1;97m Normal login"
 	print "\033[1;97m║--\033[1;91m> \033[1;92m2.\033[1;97m Login using token"
 	print "\033[1;97m║--\033[1;91m> \033[1;91m0.\033[1;97m Exit"
