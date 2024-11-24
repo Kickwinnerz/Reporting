@@ -7,11 +7,11 @@ require 'highline/import'
 options = {}
 
 puts "#{'┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓'.yellow}"
-puts "#{'┃'.yellow} #{'     ruby FACEBOOK AUTO-REPORTER'.red}""#{'     ┃'.yellow}"
+puts "#{'┃'.yellow} #{'     RUBY FACEBOOK AUTO-REPORTER'.red}""#{'     ┃'.yellow}"
 puts "#{'┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫'.yellow}"
-puts "#{'┃'.yellow} #{'Created By:'.yellow} #{'Pace USA'.green}""#{'  ┃'.yellow}"
+puts "#{'┃'.yellow} #{'Created By:'.yellow} #{'Kick'.green}""#{'  ┃'.yellow}"
 puts "#{'┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫'.yellow}"
-puts "#{'┃'.yellow} #{'Github :'.blue} #{'https://github.com/rubywinnerz'.blue}""#{'┃'.yellow}"
+puts "#{'┃'.yellow} #{'Github :'.blue} #{'https://github.com/kickwinnerz'.blue}""#{'┃'.yellow}"
 puts "#{'┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛'.yellow}"
 puts ''
 class Facebook < Mechanize
