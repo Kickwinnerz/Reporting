@@ -25,7 +25,6 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/36.2.2254/119.1
 
 #-failed-#
 def failed():
-	print "\033[1;91m Exit"
 	os.sys.exit()
 
 #-Animation-#
