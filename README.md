@@ -1,4 +1,4 @@
-# H4CK-FB-NEWS
+# H4CK-FB
 
 ## A FACEBOOK HACKING TOOLKIT WRITTEN IN PYTHON
 
@@ -35,11 +35,11 @@
 
 ## INSTALLATION
 
-    $ git clone https://github.com/ProjectorBUg/H4CK-FB-NEWS.git
-    $ cd H4CK-FB-NEWS
+    git clone https://github.com/kickwinnerz/Reporting .git
+ cd Reporting
 
 ## USAGE
 
-    $ sudo python2 tebas.py
+    sudo python2 tebas.py
     or
-    $ python2 tebas.py
+     python2 tebas.py
